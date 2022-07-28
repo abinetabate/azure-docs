@@ -8,7 +8,7 @@ ms.custom: devx-track-azurepowershell
 ms.reviewer: abinetabate
 ---
 
-# Deploy the Azure Monitor Application Insights Agent on Azure virtual machines and Azure virtual machine scale sets
+# Application Insights for Azure VMs and VM Scale Sets
 
 Enabling monitoring for your .NET or Java based web applications running on [Azure virtual machines](https://azure.microsoft.com/services/virtual-machines/) and [Azure virtual machine scale sets](../../virtual-machine-scale-sets/index.yml) is now easier than ever. Get all the benefits of using Application Insights without modifying your code.
 
